@@ -1,0 +1,51 @@
+{
+  "menu": {
+      "item2": "Sobre mí",
+      "item3": "Habilidades",
+      "item4": "Formación",
+      "item5": "Proyectos",
+      "item6": "Contacto"
+  },
+
+  "home": {
+      "home_text-1": "Hola! Soy",
+      "home_text-3": "Desarrolladora Web Full-Stack",
+      "parrafo-info": "",
+      "cv_button": "Descargar CV",
+      "contact_button": "Contacto"
+  },
+
+  "sobre-mi": {
+      "title": "Sobre mí",
+      "texto_sobreMi": "Soy una desarrolladora web apasionada por aprender y aplicar tecnologías innovadoras para crear soluciones prácticas y de calidad.<br> Mi enfoque se basa resolver problemas de manera eficiente y en mantenerme actualizada con herramientas y metodologías modernas para optimizar procesos y resultados. <br> Me caracteriza el compromiso, la responsabilidad y la dedicación con los que enfrento cada desafío, siempre buscando colaborar y aprender junto a mi equipo."
+  },
+
+  "habilidades": {
+      "title": "Habilidades"
+  },
+
+  "formacion": {
+      "title": "Formación",
+      "formacion1": "Desarrollo full stack y Ciencias de la computación",
+      "tiempo-formacion1": "Graduada en Feberero 2025",
+      "formacion2": "Servicio web de Amazon",
+      "tiempo-formacion2": " En curso"
+     
+  },
+
+  "proyectos": {
+      "title": "Proyectos",
+      "title-proyecto1": "Desarrollo de Páginas Web para Restaurantes",
+      "info-proyecto1": "Diseñé, desarrollé e implementé la página web del restaurante Finca del Mar, mejorando su presencia digital y atrayendo a más clientes.",
+      "title-proyecto2": "Gestíon de Usuarios",
+      "info-proyecto2": "Es una aplicación que permite la gestión eficiente de usuarios a través de operaciones CRUD Con una interfaz intuitiva y segura..",
+      "title-proyecto3": "Tu clima en tiempo real",
+      "info-proyecto3": "Es una aplicación moderna y fácil de usar que te brinda información meteorológica en tiempo real."
+  },
+
+  "contacto": {
+      "title": "Contacto",
+      "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+      "btn-enviar": "Enviar"
+  }
+}

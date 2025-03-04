@@ -1,0 +1,51 @@
+{
+  "menu": {
+      "item2": "About me",
+      "item3": "Skills",
+      "item4": "Training",
+      "item5": "Projects",
+      "item6": "Contact"
+  },
+
+  "home": {
+      "home_text-1": "Hi! I'm",
+      "home_text-3": "Front-End Web Developer",
+      "parrafo-info": "Full-Stack Web Developer",
+      "cv_button": "Download CV",
+      "contact_button": "Contact"
+  },
+
+  "sobre-mi": {
+      "title": "About me",
+      "texto_sobreMi": "I am a web develope passionate about learning and applying innovative technologies to create practical and quality solutions.My approach is based on solving problems efficiently and staying up to date with modern tools and methodologies to optimize processes and results. I am characterized by the commitment,responsibility and dedication with which I face each challenge, always seeking to collaborate and learn with my team."
+  },
+
+  "habilidades": {
+      "title": "Skills"
+  },
+
+  "formacion": {
+      "title": "Training",
+      "formacion1": "Full stack development and computer science",
+      "tiempo-formacion1": "Graduated in February 2025",
+      "formacion2": "Amazon web service",
+      "tiempo-formacion2": "In progress"
+    
+  },
+
+  "proyectos": {
+      "title": "Projects",
+      "title-proyecto1": "Website Development for Restaurants",
+      "info-proyecto1": "I designed, developed and implemented the Finca del Mar restaurant website, improving its digital presence and attracting more customers.",
+      "title-proyecto2": "User Management",
+      "info-proyecto2": "It is an application that allows efficient management of users through CRUD operations with an intuitive and secure interface.",
+      "title-proyecto3": "Your weather in real time",
+      "info-proyecto3": "It is a modern and easy-to-use application that provides you with real-time weather information."
+  },
+
+  "contacto": {
+      "title": "Contact",
+      "text": "Complete the form below and I will contact you as soon as possible.",
+      "btn-enviar": "Send"
+  }
+}
