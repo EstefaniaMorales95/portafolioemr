@@ -273,9 +273,10 @@ span + span {
 }
 
 .image_home {
-	max-width: 65%;
+	max-width: 40%;
 	transition: 0.4s;
 	animation: image 2s;
+	border-radius: 40px 40px 40px 40px;
 }
 
 .home_info {
@@ -425,6 +426,7 @@ span + span {
 	width: 65%;
 	margin-bottom: 5rem;
 	border-bottom: 2px solid var(--jet);
+	border-radius: 40px 40px 40px 40px;
 }
 
 /* Habilidades */
