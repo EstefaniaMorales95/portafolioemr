@@ -107,3 +107,31 @@ document.querySelector('.go-top-container').addEventListener('click', () => {
 		behavior: 'smooth',
 	});
 });
+
+/*===== Email =====*/
+document.addEventListener('DOMContentLoaded', function () {
+	const form = document.getElementById('contact-form');
+
+	if (form) {
+		form.addEventListener('submit', function (event) {
+			event.preventDefault();
+			const formData = new FormData(form);
+
+			fetch(form.action, {
+				method: 'POST',
+				body: formData,
+			})
+				.then((response) => {
+					if (response.ok) {
+						form.reset();
+						alert('¡Formulario enviado con éxito!');
+					} else {
+						alert('Hubo un error al enviar el formulario.');
+					}
+				})
+				.catch((error) => {
+					alert('Error al enviar el formulario. Intenta nuevamente.');
+				});
+		});
+	}
+});
